@@ -1,0 +1,20 @@
+{
+  "name": "1885101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": "https://github.com/anhanh/1885101",
+  "author": "Tuan Anh <tuananh.itc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "global": "^4.4.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.17.2",
+    "sequelize-cli": "^5.5.0"
+  }
+}
